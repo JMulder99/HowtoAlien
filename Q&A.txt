@@ -1,0 +1,8 @@
+Physics: How to read a Ternary Diagram? Example: fig 3 from https://arxiv.org/pdf/0912.3243.pdf 
+
+Physics: How precise do we need to take in account error margins? Do we need to use proper error propagation? Like we (the physicists) have learned via Taylor: https://archive.org/details/TaylorJ.R.IntroductionToErrorAnalysis2ed/page/n97
+
+Astronomy: All found values in articles have error margins, but their units too. For example AU and solar radia. Do we just a constant unit or do we even need those error margins?
+
+Astronomy: If you find contrasting values for the same unit, which value do you need to use? For example the temperature of GJ 1214. In the first article, they stated T = 3252 K and in the last T = 3026 K. In this particular case, the first article quoted the other article. They stated that T = 3026 was calculated using a wrong distance. But if this isn't the case, if they do not quot the 'wrong' value?
+vb https://www.aanda.org/articles/aa/pdf/2013/03/aa19250-12.pdf bl 5 en https://arxiv.org/ftp/arxiv/papers/0912/0912.3229.pdf bl 10
